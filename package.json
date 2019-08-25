@@ -11,7 +11,8 @@
     "rss": "^1.2.2"
   },
   "devDependencies": {
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "feed": "^4.0.0"
   },
   "scripts": {
     "build": "cd client && npm run build",

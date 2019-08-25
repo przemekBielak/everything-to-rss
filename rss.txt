@@ -1,0 +1,1399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Feed Title</title>
+        <link>http://example.com/</link>
+        <description>This is my personal feed!</description>
+        <lastBuildDate>Sat, 13 Jul 2013 22:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>awesome</generator>
+        <language>en</language>
+        <image>
+            <title>Feed Title</title>
+            <url>http://example.com/image.png</url>
+            <link>http://example.com/</link>
+        </image>
+        <copyright>All rights reserved 2013, John Doe</copyright>
+        <category>Technologie</category>
+        <atom:link href="https://example.com/atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[kale@hackernewsletter.com]]></title>
+            <link>mailto:kale@hackernewsletter.com</link>
+            <guid>mailto:kale@hackernewsletter.com</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[bielak9@gmail.com]]></title>
+            <link>mailto:bielak9@gmail.com</link>
+            <guid>mailto:bielak9@gmail.com</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[kale@hackernewsletter.com]]></title>
+            <link>mailto:kale@hackernewsletter.com</link>
+            <guid>mailto:kale@hackernewsletter.com</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[hackernewsletter]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=d72af60600&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=d72af60600&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[View in your browser]]></title>
+            <link>https://mailchi.mp/hackernewsletter/467?e=3801f48678</link>
+            <guid>https://mailchi.mp/hackernewsletter/467?e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Datadog: correlate and unify data across your entire stack from your metrics, traces, and logs in a single platform]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=726fbae0de&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=726fbae0de&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[I Miss Microsoft Encarta]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=92d1953e34&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=92d1953e34&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5b7b17a006&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5b7b17a006&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[WeWTF]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=80bfd99986&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=80bfd99986&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=8f5ed1a14c&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=8f5ed1a14c&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[A Walk in Hong Kong]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=06a302871b&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=06a302871b&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0a9c176ffc&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0a9c176ffc&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Information operations directed at Hong Kong]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=2bdc48c123&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=2bdc48c123&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=622df78103&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=622df78103&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Milky Way’s Black Hole Just Flared, Growing 75 Times as Bright for a Few Hours]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0d99c0ced6&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0d99c0ced6&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=9a7baca5e7&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=9a7baca5e7&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Every productivity thought I've ever had, as concisely as possible]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=1a553e4f77&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=1a553e4f77&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5cd92524e9&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5cd92524e9&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[People love working remotely]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=24dc57bde4&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=24dc57bde4&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5f6c54ec88&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5f6c54ec88&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Most startup theory is ex-post, therefore bs]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5321ae06e3&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5321ae06e3&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0ac99377d5&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0ac99377d5&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Startups from Y Combinator’s S19 Demo Day 1]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=9ef919a5ca&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=9ef919a5ca&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Day 2]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=7d2d8c7d56&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=7d2d8c7d56&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=349966f4ca&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=349966f4ca&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bdf84141e8&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bdf84141e8&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Pico-8 Virtual Fantasy Console is an idealized constrained modern day game maker]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5c6cb51d9f&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5c6cb51d9f&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5719673e4c&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5719673e4c&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[A Topographic Map of the Moon]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5d8eff1131&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5d8eff1131&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c162bb8e99&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c162bb8e99&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[What are some niche or alternative news aggregators worth checking out?]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5624b5d725&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5624b5d725&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Where do you find new music to listen to online?]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=99c0420dc9&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=99c0420dc9&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenDrop: An Open Source AirDrop Implementation]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=f3dca9e046&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=f3dca9e046&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=de2cfd8117&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=de2cfd8117&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Start Your Own ISP]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=a6c654c131&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=a6c654c131&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b2eeb41c4a&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b2eeb41c4a&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Chart.xkcd – Xkcd-styled chart library]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=d95a2ab92e&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=d95a2ab92e&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=4b7ca3b923&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=4b7ca3b923&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[CutiePi – All-in-one Raspberry Pi tablet]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=aa5dafd2cc&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=aa5dafd2cc&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b42caa9947&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b42caa9947&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Plastics: What's Recyclable, What Becomes Trash and Why]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=cd58616f0d&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=cd58616f0d&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=7f64e0313a&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=7f64e0313a&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[The Most Dangerous Writing App]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b2bca58c49&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b2bca58c49&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=2092a23fea&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=2092a23fea&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Pagemap: A mini map for your website]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e11098ba37&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e11098ba37&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=502ab67509&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=502ab67509&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Build Good Software]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=3a8920c7a6&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=3a8920c7a6&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=aa6fb0cb60&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=aa6fb0cb60&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Rails 6.0]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=eebee0987a&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=eebee0987a&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bbee729277&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bbee729277&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Three Kinds of Good Tech Debt]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=31555c795a&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=31555c795a&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=37c17ed33a&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=37c17ed33a&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[The GitHub registry public beta is live]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ab2f0b7025&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ab2f0b7025&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=6a3d0b0ec7&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=6a3d0b0ec7&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[The Order of the JSON]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c36aec8a23&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c36aec8a23&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=8732403bb2&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=8732403bb2&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Video Game Preservation – An archive of commercial video game source code]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=aad6dc63f6&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=aad6dc63f6&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b0611acc2a&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b0611acc2a&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Svelte]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=334176d720&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=334176d720&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5dfa8cb85c&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5dfa8cb85c&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Building a distributed time-series database on PostgreSQL]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=88e7220ad6&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=88e7220ad6&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=951bb73708&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=951bb73708&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Python vs. Rust for Neural Networks]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=f38aaca4a4&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=f38aaca4a4&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5d9ea90971&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5d9ea90971&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Start with Machine Learning]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5dbb783658&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5dbb783658&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=2b54546782&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=2b54546782&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Q-Learning]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c3d5c95e53&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c3d5c95e53&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bb07def1af&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bb07def1af&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Rules for Intuitive UX]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=99e4e135eb&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=99e4e135eb&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c511054f57&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c511054f57&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Airframe – Open-Source Dashboard Template]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=07ade275a7&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=07ade275a7&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bc1f57c4e5&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bc1f57c4e5&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[SVG Wave Generator]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=f4e4e42c58&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=f4e4e42c58&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5ef48e177c&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5ef48e177c&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Moravec's Paradox]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c350da062a&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c350da062a&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=4284c79edc&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=4284c79edc&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Nonplanar Printing]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b670ce3669&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b670ce3669&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b85b5a1998&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b85b5a1998&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Levenshtein Distance]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=a9b97a85e0&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=a9b97a85e0&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=eb00ce74a5&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=eb00ce74a5&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Chorded keyboard]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=123efa5326&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=123efa5326&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ac79f57e9f&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ac79f57e9f&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Kostroma Moose Farm]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=fbdbf2b9a0&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=fbdbf2b9a0&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=126581625e&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=126581625e&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech Interview Handbook]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ec9053f488&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ec9053f488&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0a7de7ab4f&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0a7de7ab4f&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Ask HN: What book to read to get a footing in CS theory?]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bd92a2df59&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bd92a2df59&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[A parrot has a question for humans]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b3261a5c6b&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b3261a5c6b&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5fb539b428&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5fb539b428&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[The Art of PostgreSQL]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=003b841f05&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=003b841f05&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=15aea94ab4&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=15aea94ab4&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[The Invincible – 1964 novel]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=42aa9c06cf&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=42aa9c06cf&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=87643e799a&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=87643e799a&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Algorithms book, by Jeff Erickson]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=dd4301525e&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=dd4301525e&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=02cf65ec3b&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=02cf65ec3b&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Humble Book Bundle: Python Programming by No Starch Press]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=795f55e618&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=795f55e618&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=163d8a2cde&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=163d8a2cde&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[A Primer on Shooting in Manual Mode: Aperture, Shutter Speed, and ISO]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bd06a1b613&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=bd06a1b613&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c874949fde&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c874949fde&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Real world location virtually recreated to scale in minutes]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=212036c331&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=212036c331&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ddd1ed3db1&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ddd1ed3db1&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[The Biggest Mistakes First-Time Founders Make]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=330bf4c104&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=330bf4c104&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5843e89dcc&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5843e89dcc&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Water droplets have been made to do the seemingly impossible]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0b4e881dc9&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0b4e881dc9&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=3a3ff9fb87&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=3a3ff9fb87&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Preindustrial workers worked fewer hours than today's]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c2754fe6f3&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c2754fe6f3&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=59b810f4ad&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=59b810f4ad&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[I wasn’t getting hired as a data scientist, so I sought data on who is]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=1c99797298&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=1c99797298&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=594b70f1d9&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=594b70f1d9&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Hiring Is Broken: What Do Developers Say About Technical Interviews?]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=d03261c2e1&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=d03261c2e1&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=1f4e341dad&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=1f4e341dad&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Finland leads the world in flexible work]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ba2ff432f9&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ba2ff432f9&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e9d6069d3c&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e9d6069d3c&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[‘They Get Fired All the Time. And They Have No Idea Why’]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=a891458016&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=a891458016&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=d55e4888ca&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=d55e4888ca&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[When the Lights Went Out: A History of Blackouts in America]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=3c05e44515&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=3c05e44515&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=3fc0efab59&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=3fc0efab59&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[The Young Man and the Sea Sponge]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=d66600b77e&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=d66600b77e&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e0785e3289&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e0785e3289&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Kerbal Space Program 2]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c0274a9c76&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c0274a9c76&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=05a6d25149&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=05a6d25149&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Cool but obscure X11 tools]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=69a9d33484&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=69a9d33484&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e1bd94c24e&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e1bd94c24e&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[ClojureScript pixel game engine with Blender live-reloading]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5e25b85a35&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=5e25b85a35&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ac6009e7c5&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=ac6009e7c5&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Die With Me – A chat app you can only use when you have less than 5% battery]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=290cf417aa&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=290cf417aa&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=6aec2c4394&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=6aec2c4394&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Alone in the Dark]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c5cfd2f0c3&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c5cfd2f0c3&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=22579265eb&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=22579265eb&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[ Building ages in the Netherlands]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b44fb95e3c&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=b44fb95e3c&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c9766086e3&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=c9766086e3&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[A few simple games not only for kids]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0b6bacd428&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=0b6bacd428&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[comments→]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=32e94597ae&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=32e94597ae&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[Curpress]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=df8124b843&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=df8124b843&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[update your email]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/profile?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e505c88a2e&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/profile?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e505c88a2e&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[unsubscribe]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/unsubscribe?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e505c88a2e&amp;e=3801f48678&amp;c=434ce4d4c5</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/unsubscribe?u=faa8eb4ef3a111cef92c4f3d4&amp;id=e505c88a2e&amp;e=3801f48678&amp;c=434ce4d4c5</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <title><![CDATA[http://hackernewsletter.com]]></title>
+            <link>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=4b1e4da950&amp;e=3801f48678</link>
+            <guid>https://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&amp;id=4b1e4da950&amp;e=3801f48678</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+        <item>
+            <link>http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&amp;utm_medium=email&amp;utm_campaign=monkey_rewards&amp;aid=faa8eb4ef3a111cef92c4f3d4&amp;afl=1</link>
+            <guid>http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&amp;utm_medium=email&amp;utm_campaign=monkey_rewards&amp;aid=faa8eb4ef3a111cef92c4f3d4&amp;afl=1</guid>
+            <description><![CDATA[description]]></description>
+            <content:encoded><![CDATA[content]]></content:encoded>
+            <author>janedoe@example.com (Jane Doe)</author>
+            <author>joesmith@example.com (Joe Smith)</author>
+            <enclosure url="iamge"/>
+        </item>
+    </channel>
+</rss>
