@@ -48,7 +48,15 @@ class App extends Component {
   }
 
   handleRedditSubmit() {
-    const redditRss = `https://www.reddit.com/r/${this.state.subredditName}/top.rss?t=${this.state.subredditTopSelect}`;
+    let subredditString = '';
+
+    if(this.state.subredditName.includes('https://')) {
+      // 
+      subredditString = this.state.subredditName.split('/')[4];
+    }else{
+      subredditString = this.state.subredditName;
+    }
+    const redditRss = `https://www.reddit.com/r/${subredditString}/top.rss?t=${this.state.subredditTopSelect}`;
     this.setState({ redditRssResult: redditRss });
   }
 

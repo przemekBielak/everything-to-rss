@@ -46,31 +46,6 @@ fs.readFile('./email.txt', 'utf8', (err, data) => {
             link: post.url,
             description: "description",
             content: "content",
-            author: [
-                {
-                    name: "Jane Doe",
-                    email: "janedoe@example.com",
-                    link: "https://example.com/janedoe"
-                },
-                {
-                    name: "Joe Smith",
-                    email: "joesmith@example.com",
-                    link: "https://example.com/joesmith"
-                }
-            ],
-            contributor: [
-                {
-                    name: "Shawn Kemp",
-                    email: "shawnkemp@example.com",
-                    link: "https://example.com/shawnkemp"
-                },
-                {
-                    name: "Reggie Miller",
-                    email: "reggiemiller@example.com",
-                    link: "https://example.com/reggiemiller"
-                }
-            ],
-            //   date: "date",
             image: "iamge"
         });
     });
