@@ -50,10 +50,10 @@ class App extends Component {
   handleRedditSubmit() {
     let subredditString = '';
 
-    if(this.state.subredditName.includes('https://')) {
+    if (this.state.subredditName.includes('https://')) {
       // 
       subredditString = this.state.subredditName.split('/')[4];
-    }else{
+    } else {
       subredditString = this.state.subredditName;
     }
     const redditRss = `https://www.reddit.com/r/${subredditString}/top.rss?t=${this.state.subredditTopSelect}`;
@@ -116,7 +116,7 @@ class App extends Component {
 
   render() {
     return (
-      <div>
+      <div className='App'>
         <h1>Everything to RSS</h1>
         <button onClick={this.activateReddit}>Reddit</button>
         <button onClick={this.activateNewsletter}>Newsletter</button>
