@@ -128,15 +128,14 @@ function getRecentEmail(auth) {
     var message_id = response['data']['messages'][0]['id'];
 
     // Retreive the actual message using the message id
-    gmail.users.messages.get({ auth: auth, userId: 'me', 'id': message_id }, function (err, response) {
+    gmail.users.messages.get({ auth: auth, userId: 'me', 'id': message_id, format: 'full' }, function (err, response) {
       if (err) {
         console.log('The API returned an error: ' + err);
         return;
       }
 
-      console.log(response['data']);
-
-      message_raw = response.data.payload.parts[0].body.data;
+      // get email data with html formatting
+      message_raw = response.data.payload.parts[1].body.data;
       data = message_raw;
       buff = new Buffer(data, 'base64');
       text = buff.toString();
