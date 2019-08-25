@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 const fs = require('fs');
 const readline = require('readline');
 const { google } = require('googleapis');
+const xml = require('xml')
 
 
 app.listen(port, () => console.log(`Listening on port ${port}`))
@@ -16,6 +17,12 @@ app.listen(port, () => console.log(`Listening on port ${port}`))
 
 app.get('/api', (req, res) => {
   res.send({ express: 'YOUR EXPRESS BACKEND IS CONNECTED TO REACT' });
+});
+
+app.get('/rss', (req, res) => {
+  fs.readFile('./rss.xml', 'utf-8', (err, data) => {
+    res.send(data);
+  })
 });
 
 
@@ -30,11 +37,11 @@ const SCOPES = ['https://www.googleapis.com/auth/gmail.readonly'];
 const TOKEN_PATH = 'token.json';
 
 // Load client secrets from a local file.
-fs.readFile('credentials.json', (err, content) => {
-  if (err) return console.log('Error loading client secret file:', err);
-  // Authorize a client with credentials, then call the Gmail API.
-  authorize(JSON.parse(content), getRecentEmail);
-});
+// fs.readFile('credentials.json', (err, content) => {
+//   if (err) return console.log('Error loading client secret file:', err);
+//   // Authorize a client with credentials, then call the Gmail API.
+//   authorize(JSON.parse(content), getRecentEmail);
+// });
 
 /**
  * Create an OAuth2 client with the given credentials, and then execute the
