@@ -1,0 +1,192 @@
+
+
+Wysłane z iPhone'a
+
+Początek przekazywanej wiadomości:
+
+> Od: Hacker Newsletter <kale@hackernewsletter.com>
+> Data: 23 sierpnia 2019 13:07:20 CEST
+> Do: <bielak9@gmail.com>
+> Temat: Hacker Newsletter #467
+> Odpowiedz-do: Hacker Newsletter <kale@hackernewsletter.com>
+> 
+> 
+> I don't know why people hire architects and then tell them what to do. //Frank Gehry
+> 
+> hackernewsletter
+> Issue #467 // August 23, 2019 // View in your browser
+> #FAVORITES
+> 
+> Datadog: correlate and unify data across your entire stack from your metrics, traces, and logs in a single platform 
+> //datadog sponsored
+> 
+> I Miss Microsoft Encarta 
+> //hanselman comments→
+> 
+> WeWTF 
+> //profgalloway comments→
+> 
+> A Walk in Hong Kong 
+> //idlewords comments→
+> 
+> Information operations directed at Hong Kong 
+> //twitter comments→
+> 
+> Milky Way’s Black Hole Just Flared, Growing 75 Times as Bright for a Few Hours 
+> //universetoday comments→
+> 
+> Every productivity thought I've ever had, as concisely as possible 
+> //guzey comments→
+> 
+> People love working remotely 
+> //usefyi comments→
+> 
+> Most startup theory is ex-post, therefore bs 
+> //shafyy comments→
+> 
+> Startups from Y Combinator’s S19 Demo Day 1 / Day 2 
+> //techcrunch comments / comments→
+> 
+> Pico-8 Virtual Fantasy Console is an idealized constrained modern day game maker 
+> //hanselman comments→
+> 
+> A Topographic Map of the Moon 
+> //tabletopwhale comments→
+> 
+> #ASK HN
+> 
+> What are some niche or alternative news aggregators worth checking out?
+> 
+> Where do you find new music to listen to online?
+> 
+> #SHOW HN
+> 
+> OpenDrop: An Open Source AirDrop Implementation //github comments→
+> 
+> Start Your Own ISP //startyourownisp comments→
+> 
+> Chart.xkcd – Xkcd-styled chart library //github comments→
+> 
+> CutiePi – All-in-one Raspberry Pi tablet //cutiepi comments→
+> 
+> Plastics: What's Recyclable, What Becomes Trash and Why //npr comments→
+> 
+> The Most Dangerous Writing App //github comments→
+> 
+> Pagemap: A mini map for your website //larsjung comments→
+> 
+> #CODE
+> 
+> How to Build Good Software //csc comments→
+> 
+> Rails 6.0 //rubyonrails comments→
+> 
+> Three Kinds of Good Tech Debt //squarespace comments→
+> 
+> The GitHub registry public beta is live //github comments→
+> 
+> The Order of the JSON //almaer comments→
+> 
+> Video Game Preservation – An archive of commercial video game source code //github comments→
+> 
+> Introduction to Svelte //daveceddia comments→
+> 
+> #DATA
+> 
+> Building a distributed time-series database on PostgreSQL //timescale comments→
+> 
+> Python vs. Rust for Neural Networks //github comments→
+> 
+> How to Start with Machine Learning //duomly comments→
+> 
+> Q-Learning //wikipedia comments→
+> 
+> #DESIGN
+> 
+> Rules for Intuitive UX //learnui comments→
+> 
+> Airframe – Open-Source Dashboard Template //github comments→
+> 
+> SVG Wave Generator //getwaves comments→
+> 
+> #LEARN
+> 
+> Moravec's Paradox //wikipedia comments→
+> 
+> Nonplanar Printing //uni-hamburg comments→
+> 
+> Levenshtein Distance //wikipedia comments→
+> 
+> Chorded keyboard //wikipedia comments→
+> 
+> Kostroma Moose Farm //wikipedia comments→
+> 
+> #BOOKS
+> 
+> Tech Interview Handbook //github comments→
+> 
+> Ask HN: What book to read to get a footing in CS theory? //ycombinator
+> 
+> A parrot has a question for humans //nautil comments→
+> 
+> The Art of PostgreSQL //theartofpostgresql comments→
+> 
+> The Invincible – 1964 novel //wikipedia comments→
+> 
+> Algorithms book, by Jeff Erickson //illinois comments→
+> 
+> Humble Book Bundle: Python Programming by No Starch Press //humblebundle comments→
+> 
+> #WATCHING
+> 
+> A Primer on Shooting in Manual Mode: Aperture, Shutter Speed, and ISO //petapixel comments→
+> 
+> Real world location virtually recreated to scale in minutes //blogs comments→
+> 
+> The Biggest Mistakes First-Time Founders Make //ycombinator comments→
+> 
+> Water droplets have been made to do the seemingly impossible //vimeo comments→
+> 
+> #WORKING
+> 
+> Preindustrial workers worked fewer hours than today's //mit comments→
+> 
+> I wasn’t getting hired as a data scientist, so I sought data on who is //towardsdatascience comments→
+> 
+> Hiring Is Broken: What Do Developers Say About Technical Interviews? //researchgate comments→
+> 
+> Why Finland leads the world in flexible work //bbc comments→
+> 
+> #LONGREADS
+> 
+> ‘They Get Fired All the Time. And They Have No Idea Why’ //institutionalinvestor comments→
+> 
+> When the Lights Went Out: A History of Blackouts in America //mit comments→
+> 
+> The Young Man and the Sea Sponge //longreads comments→
+> 
+> #FUN
+> 
+> Kerbal Space Program 2 //kerbalspaceprogram comments→
+> 
+> Cool but obscure X11 tools //dabamos comments→
+> 
+> ClojureScript pixel game engine with Blender live-reloading //mccormick comments→
+> 
+> Die With Me – A chat app you can only use when you have less than 5% battery //apple comments→
+> 
+> Alone in the Dark //filfre comments→
+> 
+> Building ages in the Netherlands //parallel comments→
+> 
+> A few simple games not only for kids //easylang comments→
+> 
+> __END__
+> You're among 65,720 others who received this email because you wanted a weekly recap of the best articles from Hacker News. Published by Curpress from a smallish metal box at PO BOX 2621 Decatur, Georgia 30031. Hacker Newsletter is not affiliated with Y Combinator in any way. 
+> 
+> You can update your email or unsubscribe. 
+> 
+> Not a subscriber? Subscribe at http://hackernewsletter.com. 
+> 
+> 
+> 

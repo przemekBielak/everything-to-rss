@@ -4,7 +4,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 const fs = require('fs');
 const readline = require('readline');
-const {google} = require('googleapis');
+const { google } = require('googleapis');
 
 
 app.listen(port, () => console.log(`Listening on port ${port}`))
@@ -33,7 +33,7 @@ const TOKEN_PATH = 'token.json';
 fs.readFile('credentials.json', (err, content) => {
   if (err) return console.log('Error loading client secret file:', err);
   // Authorize a client with credentials, then call the Gmail API.
-  authorize(JSON.parse(content), listLabels);
+  authorize(JSON.parse(content), getRecentEmail);
 });
 
 /**
@@ -43,9 +43,9 @@ fs.readFile('credentials.json', (err, content) => {
  * @param {function} callback The callback to call with the authorized client.
  */
 function authorize(credentials, callback) {
-  const {client_secret, client_id, redirect_uris} = credentials.installed;
+  const { client_secret, client_id, redirect_uris } = credentials.installed;
   const oAuth2Client = new google.auth.OAuth2(
-      client_id, client_secret, redirect_uris[0]);
+    client_id, client_secret, redirect_uris[0]);
 
   // Check if we have previously stored a token.
   fs.readFile(TOKEN_PATH, (err, token) => {
@@ -92,7 +92,7 @@ function getNewToken(oAuth2Client, callback) {
  * @param {google.auth.OAuth2} auth An authorized OAuth2 client.
  */
 function listLabels(auth) {
-  const gmail = google.gmail({version: 'v1', auth});
+  const gmail = google.gmail({ version: 'v1', auth });
   gmail.users.labels.list({
     userId: 'me',
   }, (err, res) => {
@@ -106,5 +106,47 @@ function listLabels(auth) {
     } else {
       console.log('No labels found.');
     }
+  });
+}
+
+
+/**
+ * Get the recent email from your Gmail account
+ *
+ * @param {google.auth.OAuth2} auth An authorized OAuth2 client.
+ */
+function getRecentEmail(auth) {
+  // Only get the recent email - 'maxResults' parameter
+  const gmail = google.gmail({ version: 'v1', auth });
+  gmail.users.messages.list({ auth: auth, userId: 'me', maxResults: 5, }, function (err, response) {
+    if (err) {
+      console.log('The API returned an error: ' + err);
+      return;
+    }
+
+    // Get the message id which we will need to retreive tha actual message next.
+    var message_id = response['data']['messages'][0]['id'];
+
+    // Retreive the actual message using the message id
+    gmail.users.messages.get({ auth: auth, userId: 'me', 'id': message_id }, function (err, response) {
+      if (err) {
+        console.log('The API returned an error: ' + err);
+        return;
+      }
+
+      console.log(response['data']);
+
+      message_raw = response.data.payload.parts[0].body.data;
+      data = message_raw;
+      buff = new Buffer(data, 'base64');
+      text = buff.toString();
+      console.log(text);
+
+      fs.writeFile('./email.txt', text, err => {
+        if (err) {
+          console.log('error while saving emails')
+        }
+      });
+    });
   });
 }
