@@ -7,9 +7,12 @@
     "concurrently": "^4.1.2",
     "express": "^4.17.1",
     "googleapis": "^39.2.0",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "rss": "^1.2.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
   "scripts": {
     "build": "cd client && npm run build",
     "server": "node server.js"
