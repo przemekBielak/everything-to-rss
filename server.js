@@ -5,7 +5,6 @@ const port = process.env.PORT || 5000;
 const fs = require('fs');
 const readline = require('readline');
 const { google } = require('googleapis');
-const xml = require('xml')
 
 app.use(express.json())
 
@@ -20,16 +19,19 @@ app.get('/api', (req, res) => {
   res.send({ express: 'YOUR EXPRESS BACKEND IS CONNECTED TO REACT' });
 });
 
-app.get('/rss', (req, res) => {
+
+app.get('/rss2', (req, res) => {
   fs.readFile('./rss.xml', 'utf-8', (err, data) => {
     res.send(data);
   })
 });
 
-app.post('/rss', (req, res) => {
-  console.log(req.body)
+let newsletterNames = [];
+let activeNewsLetters = [];
 
-  res.send({test: 'test'})
+app.post('/rss', (req, res) => {
+  newsletterNames.push(req.body.newsletterName)
+  console.log(newsletterNames)
 })
 
 
