@@ -28,6 +28,7 @@ app.get('/rss2', (req, res) => {
 
 let newsletterNames = [];
 let activeNewsLetters = [];
+let newsletterData = [];
 
 app.post('/rss', (req, res) => {
   newsletterNames.push(req.body.newsletterName)
@@ -46,11 +47,11 @@ const SCOPES = ['https://www.googleapis.com/auth/gmail.readonly'];
 const TOKEN_PATH = 'token.json';
 
 // Load client secrets from a local file.
-// fs.readFile('credentials.json', (err, content) => {
-//   if (err) return console.log('Error loading client secret file:', err);
-//   // Authorize a client with credentials, then call the Gmail API.
-//   authorize(JSON.parse(content), getRecentEmail);
-// });
+fs.readFile('credentials.json', (err, content) => {
+  if (err) return console.log('Error loading client secret file:', err);
+  // Authorize a client with credentials, then call the Gmail API.
+  authorize(JSON.parse(content), getRecentEmail);
+});
 
 /**
  * Create an OAuth2 client with the given credentials, and then execute the
@@ -150,14 +151,32 @@ function getRecentEmail(auth) {
         return;
       }
 
+      let from = '';
+      let subject = '';
+      let received = '';
+
       // get email data with html formatting
+      // console.log(response.data.payload.headers)
+      response.data.payload.headers.forEach((item, index) => {
+        if(item.name === 'From') {
+          from = item.value;
+        }
+        if(item.name === 'Subject') {
+          subject = item.value;
+        }
+        if(item.name === 'Received') {
+          received = item.value;
+        }
+      })
+
       message_raw = response.data.payload.parts[1].body.data;
       data = message_raw;
       buff = new Buffer(data, 'base64');
       text = buff.toString();
-      console.log(text);
+      newsletterData.push({'from': from, 'subject': subject, 'received': received, 'body': text})
+      console.log(newsletterData)
 
-      fs.writeFile('./email.txt', text, err => {
+      fs.writeFile(`./email.txt`, text, err => {
         if (err) {
           console.log('error while saving emails')
         }
