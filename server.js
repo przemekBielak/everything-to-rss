@@ -7,6 +7,7 @@ const readline = require('readline');
 const { google } = require('googleapis');
 const xml = require('xml')
 
+app.use(express.json())
 
 app.listen(port, () => console.log(`Listening on port ${port}`))
 
@@ -24,6 +25,12 @@ app.get('/rss', (req, res) => {
     res.send(data);
   })
 });
+
+app.post('/rss', (req, res) => {
+  console.log(req.body)
+
+  res.send({test: 'test'})
+})
 
 
 

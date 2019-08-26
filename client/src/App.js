@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 
 class App extends Component {
@@ -9,7 +8,8 @@ class App extends Component {
       activated: "",
       subredditName: "",
       subredditTopSelect: "",
-      redditRssResult: ""
+      redditRssResult: "",
+      newslettertName: ""
     };
 
     this.activateReddit = this.activateReddit.bind(this);
@@ -21,6 +21,8 @@ class App extends Component {
     this.handleRedditSubmit = this.handleRedditSubmit.bind(this);
     this.showRedditRssResult = this.showRedditRssResult.bind(this);
     this.showRedditSubmitButton = this.showRedditSubmitButton.bind(this);
+    this.handleNewsletterNameChange = this.handleNewsletterNameChange.bind(this);
+    this.handleNewsletterSubmit = this.handleNewsletterSubmit.bind(this);
   }
 
   activateReddit() {
@@ -33,6 +35,10 @@ class App extends Component {
 
   handleSubredditNameChange(event) {
     this.setState({ subredditName: event.target.value });
+  }
+
+  handleNewsletterNameChange(event) {
+    this.setState({ newslettertName: event.target.value });
   }
 
   handleSubredditTopWeek() {
@@ -52,7 +58,9 @@ class App extends Component {
 
     if (this.state.subredditName.includes('https://')) {
       // 
-      subredditString = this.state.subredditName.split('/')[4];
+      const split = this.state.subredditName.split('/')
+      const index = split.indexOf('r') + 1;
+      subredditString = split[index];
     } else {
       subredditString = this.state.subredditName;
     }
@@ -60,8 +68,24 @@ class App extends Component {
     this.setState({ redditRssResult: redditRss });
   }
 
+  handleNewsletterSubmit() {
+    (async () => {
+      const rawResponse = await fetch('/rss', {
+        method: 'POST',
+        headers: {
+          'Accept': 'application/json',
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ newsletterName: this.state.newslettertName })
+      });
+      const content = await rawResponse.json();
+
+      console.log(content);
+    })();
+  }
+
   showRedditRssResult() {
-    if (this.state.redditRssResult != "") {
+    if (this.state.redditRssResult !== "") {
       return <h3>{this.state.redditRssResult}</h3>;
     } else {
       return;
@@ -69,7 +93,7 @@ class App extends Component {
   }
 
   showRedditSubmitButton() {
-    if (this.state.subredditName != "" && this.state.subredditTopSelect != "") {
+    if (this.state.subredditName !== "" && this.state.subredditTopSelect !== "") {
       return <button onClick={this.handleRedditSubmit}>Submit</button>;
     } else {
       return;
@@ -77,7 +101,7 @@ class App extends Component {
   }
 
   shotAdvanced() {
-    if (this.state.activated == "reddit") {
+    if (this.state.activated === "reddit") {
       return (
         <div>
           <div>
@@ -100,14 +124,21 @@ class App extends Component {
           {this.showRedditRssResult()}
         </div>
       );
-    } else if (this.state.activated == "newsletter") {
+    } else if (this.state.activated === "newsletter") {
       return (
-        <form>
-          <label>
-            Newsletter name:
-            <input type="text" name="newsletterName" />
-          </label>
-        </form>
+        <div>
+          <form>
+            <label>
+              Newsletter name:
+              <input
+                type="text"
+                value={this.state.newslettertName}
+                onChange={this.handleNewsletterNameChange}
+              />
+            </label>
+          </form>
+          <button onClick={this.handleNewsletterSubmit}>Submit</button>
+        </div>
       );
     } else {
       return;
